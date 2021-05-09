@@ -1,4 +1,10 @@
 ### Hi there 👋 I am Okiemute Gold!
+<hr>
+
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/OkiemuteGold/OkiemuteGold)
+![Netlify](https://img.shields.io/netlify/acc9788b-58a3-4c21-8d04-97d7f9ab0ae4)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fokiemute_gold)
 
 <!--
 **OkiemuteGold/OkiemuteGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
