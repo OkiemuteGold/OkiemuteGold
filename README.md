@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Okiemute Gold!
-<hr>
-
+-------
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/OkiemuteGold/OkiemuteGold)
+![Netlify](https://img.shields.io/netlify/acc9788b-58a3-4c21-8d04-97d7f9ab0ae4)
 
 
 
