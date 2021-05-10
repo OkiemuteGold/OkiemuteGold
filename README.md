@@ -20,6 +20,11 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 ##### Coursera, Jobberman - Softskills Course
 
 -------
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkiemuteGold&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkiemuteGold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+-------
 ### 🧰 Tools/Technologies
 #### Plain
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="40" height="40" title="HTML5">   <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" width="40" height="40" title="CSS3">   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript">   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40" title="VS Code">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" title="Git">   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40" title="Github">
