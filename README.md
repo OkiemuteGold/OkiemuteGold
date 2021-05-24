@@ -3,7 +3,7 @@
 I build stuffs for sustainable african development. And I love to teach kids, teenagers, and youths programming.
 
 ##### ⚡ Check me out:
-<a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,   <a href="https://github.com/OkiemuteGold">Github</a>,   <a href="https://stackoverflow.com/users/14235396/okiemute-gold?tab=profile">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold-c">Pluralsight</a>
+<a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,   <a href="https://twitter.com/okiemute_gold">Twitter</a>,   <a href="https://stackoverflow.com/users/14235396/okiemute-gold?tab=profile">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold-c">Pluralsight</a>
 
 -------
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
@@ -12,7 +12,7 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 
 -------
 ### Courses/Training
-##### Zuri Backend Training - Nodejs (current)
+<!-- ##### Zuri Backend Training - Nodejs (current) -->
 ##### Google Andela Developers Scholarship - Mobile Web Specialist (2020, and current)
 ##### Freecodecamp - Fullstack Developer Program (current)
 ##### Educative.io/Self-Taught - Vuejs (current)
@@ -22,7 +22,7 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 -------
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkiemuteGold&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkiemuteGold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkiemuteGold&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Okiemute's GitHub stats](https://github-readme-stats.vercel.app/api?username=OkiemuteGold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
 ### 🧰 Tools/Technologies
@@ -33,8 +33,8 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 #### Frontend Libraries/Frameworks
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap">   <!-- <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"> -->    <img src="https://cdn.worldvectorlogo.com/logos/jquery.svg" alt="jQuery" width="40" height="40" title="jQuery">   <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vuejs" width="40" height="40" title="Vuejs">   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Sass" width="40" height="40" title="Sass">
 
-#### Backend
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="40" height="40" title="Nodejs">
+<!-- #### Backend -->
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="40" height="40" title="Nodejs"> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Expressjs" width="40" height="40" title="Expressjs"> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB"> -->
 
@@ -44,7 +44,7 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 
 -------
 ### Resources
-<a href ="https://www.freecodecamp.org/learn">freecodecamp.org/learn</a>,   <a href ="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp</a,   <a href ="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy Media</a>,   <a href ="https://www.youtube.com/channel/UCCZYGgIn2X1I8mortBJ5UUw">The Zuri Team</a>,   <a href ="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a>,   and so much more...
+<a href ="https://www.freecodecamp.org/learn">freecodecamp.org/learn</a>,   <a href ="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp</a>,   <a href ="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy Media</a>,   <a href ="https://www.youtube.com/channel/UCCZYGgIn2X1I8mortBJ5UUw">The Zuri Team</a>,   <a href ="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a>,   and so much more...
 
 
 
