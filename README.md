@@ -1,21 +1,21 @@
 ### Hi there 👋 I am Okiemute Gold!
-##### ⚡ Frontend Engineer & Social Innovation Enthusiast
-I build stuffs for sustainable african development. And I love to teach kids, teenagers, and youths programming.
+##### ⚡ Frontend Developer
+Experienced with responsive designs and semantics. Able to quickly grasp new software fundamentals, adapt to new roles and collaborate in a team.
+Currently working with Vuejs.
 
 ##### ⚡ Check me out:
-<a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,   <a href="https://twitter.com/okiemute_gold">Twitter</a>,   <a href="https://stackoverflow.com/users/14235396/okiemute-gold?tab=profile">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold-c">Pluralsight</a>
+<a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,    <!-- <a href="https://twitter.com/okiemute_gold">Twitter</a>,  -->   <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold">Pluralsight</a>
 
 -------
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/OkiemuteGold/OkiemuteGold)
-![Netlify](https://img.shields.io/netlify/acc9788b-58a3-4c21-8d04-97d7f9ab0ae4)
 
 -------
 ### Courses/Training
 <!-- ##### Zuri Backend Training - Nodejs (current) -->
 ##### Google Andela Developers Scholarship - Mobile Web Specialist (2020, and current)
 ##### Freecodecamp - Fullstack Developer Program (current)
-##### Educative.io/Self-Taught - Vuejs (current)
+##### Educative.io/Self-Taught - Vuejs
 ##### The Web Developers Bootcamp, Colt Steele
 ##### Coursera, Jobberman - Softskills Course
 
@@ -39,16 +39,11 @@ I build stuffs for sustainable african development. And I love to teach kids, te
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB"> -->
 
 -------
-### ✨ I’m currently learning ✨
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vuejs" width="40" height="40" title="Vuejs">   <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="50" height="50" title="Nodejs">   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Expressjs" width="50" height="50" title="Expressjs">   <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB">
+<!-- ### ✨ I’m currently learning ✨
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="50" height="50" title="Nodejs">   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Expressjs" width="50" height="50" title="Expressjs">   <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB">  -->
 
--------
 ### Resources
 <a href ="https://www.freecodecamp.org/learn">freecodecamp.org/learn</a>,   <a href ="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp</a>,   <a href ="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy Media</a>,   <a href ="https://www.youtube.com/channel/UCCZYGgIn2X1I8mortBJ5UUw">The Zuri Team</a>,   <a href ="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a>,   and so much more...
-
-
-
-<!-- <img src="" alt="" width="40" height="40" title=""> -->
 
 <!--
 **OkiemuteGold/OkiemuteGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
