@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Okiemute Gold!
 ##### ⚡ Frontend Developer
-Experienced with responsive designs and semantics. Able to quickly grasp new software fundamentals, adapt to new roles and collaborate in a team.
+Experienced with responsive designs and semantics. Able to quickly grasp new software development fundamentals, adapt to new roles and collaborate in a team.
 Currently working with Vuejs.
 
 ##### ⚡ Check me out:
