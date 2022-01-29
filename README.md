@@ -1,10 +1,11 @@
 ### Hi there 👋 I am Okiemute Gold!
-##### ⚡ Frontend Developer
-Experienced with responsive designs and semantics. Able to quickly grasp new software development fundamentals, adapt to new roles and collaborate in a team.
-Currently working with Vuejs.
+##### ⚡ Frontend Developer Product Management & Social Innovation Enthusiast.
+I am experienced with Semantic HTML, Web Accessibility, and Responsive Designs. 
+Skilled in CSS, JavaScript, jQuery, Vue.js and familiar with SCSS, Nuxt, D3, Google's Lighthouse for Performance and Search Engine Optimization, W3C Markup Validation Service, Google’s Mobile-Friendly Responsive Design Testing, and Digital Marketing.
+I quickly grasp new software development fundamentals, adapt to new roles, and collaborate effectively in a team.
 
 ##### ⚡ Check me out:
-<a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,    <!-- <a href="https://twitter.com/okiemute_gold">Twitter</a>,  -->   <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold">Pluralsight</a>
+<a href="https://okiemute-portfolio.netlify.app/">Portfolio</a>,    <a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,    <!-- <a href="https://twitter.com/okiemute_gold">Twitter</a>,  -->   <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold">Pluralsight</a>
 
 -------
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
