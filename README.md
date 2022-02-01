@@ -18,7 +18,7 @@ I quickly grasp new software development fundamentals, adapt to new roles, and c
 ##### Fullstack Developer Program, Freecodecamp (2021 - current)
 ##### Mobile Web Specialist, Google Andela Developers Scholarship (2020, 2021)
 ##### Vuejs Fundamentals, Educative.io and Scrimba (2021)
-##### Coursera, Jobberman - Softskills Course (2021)
+##### Softskills Course, Coursera and Jobberman (2021)
 ##### The Web Developers Bootcamp, Colt Steele (2020)
 
 -------
