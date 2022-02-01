@@ -14,11 +14,12 @@ I quickly grasp new software development fundamentals, adapt to new roles, and c
 -------
 ### Courses/Training
 <!-- ##### Zuri Backend Training - Nodejs (current) -->
-##### Google Andela Developers Scholarship - Mobile Web Specialist (2020, and current)
-##### Freecodecamp - Fullstack Developer Program (current)
-##### Educative.io/Self-Taught - Vuejs
-##### The Web Developers Bootcamp, Colt Steele
-##### Coursera, Jobberman - Softskills Course
+##### Fundamentals of Digital Marketing, Google Digital Skills for Africa (2022)
+##### Fullstack Developer Program, Freecodecamp (2021 - current)
+##### Mobile Web Specialist, Google Andela Developers Scholarship (2020, 2021)
+##### Vuejs Fundamentals, Educative.io and Scrimba (2021)
+##### Coursera, Jobberman - Softskills Course (2021)
+##### The Web Developers Bootcamp, Colt Steele (2020)
 
 -------
 ## &#x1f4c8; My GitHub Stats
