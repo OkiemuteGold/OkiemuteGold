@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Okiemute Gold!
 ##### ⚡ Frontend Developer | Product Management | Social Innovation Enthusiast.
 I am experienced with Semantic HTML, Web Accessibility, and Responsive Designs. 
-Skilled in CSS, JavaScript, jQuery, Vue.js and familiar with SCSS, Angular, Nuxt, D3, Google's Lighthouse for Performance and Search Engine Optimization, W3C Markup Validation Service, Google’s Mobile-Friendly Responsive Design Testing, and Digital Marketing.
+Skilled in CSS, JavaScript, jQuery, Vue.js and familiar with SCSS, Angular, Nuxt, D3.js, Google's Lighthouse for Performance and Search Engine Optimization, W3C Markup Validation Service, Google’s Mobile-Friendly Responsive Design Testing, SEO, and Digital Marketing.
 I quickly grasp new software development fundamentals, adapt to new roles, and collaborate effectively in a team.
 
 ##### ⚡ Check me out:
