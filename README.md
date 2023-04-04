@@ -3,7 +3,7 @@
 
 I am experienced with Semantic HTML, Web Accessibility, and Responsive Web Design.
 
-Skilled in CSS3, HTML5, JavaScript, jQuery, Vuejs, and Sass/SCSS, with a good understanding of Angular, Nuxt, Nodejs, Firebase, Word Press (Elementor), Solidity, D3.js, Mobile-Friendly and Responsive Design Testing, Performance Optimization, Search Engine Optimization, Product Management, UX Research, and Digital Marketing.
+Skilled in CSS3, HTML5, JavaScript, jQuery, Vuejs, React, Next.js, and Sass/SCSS, with a good understanding of Angular, Nuxt, Nodejs, Firebase, Word Press (Elementor), Solidity, D3.js, Mobile-Friendly and Responsive Design Testing, Performance Optimization, Search Engine Optimization, Product Management, UX Research, and Digital Marketing.
 
 I quickly grasp new software development fundamentals, adapt to new roles, and collaborate effectively in a team.
 
