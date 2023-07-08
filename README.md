@@ -1,14 +1,19 @@
 ### Hi there 👋 I am Okiemute Gold!
-##### ⚡ Software Developer | Blockchain | Product Management | Social Innovation | Enthusiast
+##### ⚡ Software Developer | Blockchain | PM
 
-I am experienced with Semantic HTML, Web Accessibility, and Responsive Web Design.
+I'm a skilled Frontend Developer with 3 years of professional experience working with JavaScript, JavaScript libraries, and frameworks to create efficient, scalable, and user-friendly solutions that solve real-world problems.
 
-Skilled in CSS3, HTML5, JavaScript, jQuery, Vuejs, React, Next.js, and Sass/SCSS, with a good understanding of Angular, Nuxt, Nodejs, Firebase, Word Press (Elementor), Solidity, D3.js, Mobile-Friendly and Responsive Design Testing, Performance Optimization, Search Engine Optimization, Product Management, UX Research, and Digital Marketing.
+Experienced with:
+• JavaScript, TypeScript, jQuery, Vue.js, React.js and Redux, Next.js, Nodejs, and Firebase.
+• HTML, CSS3, Sass, Tailwind CSS, Bootstrap, and AntD.
+• Mobile-friendly and Responsive Designs, Semantic HTML, Web Accessibility, Performance Optimization, Product Management, and UX Research.
 
-I quickly grasp new software development fundamentals, adapt to new roles, and collaborate effectively in a team.
+Also familiar with:
+• Angular, Nuxt, Firebase, WordPress (Elementor), ThreeJS, and Webflow.
 
-##### ⚡ Check me out:
-<a href="https://okiemute-portfolio.netlify.app/">Portfolio</a>,    <a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>,    <!-- <a href="https://twitter.com/okiemute_gold">Twitter</a>,  -->   <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,   <a href="https://app.pluralsight.com/profile/okiemute-gold">Pluralsight</a>
+
+##### ⚡ Contacts:
+<a href="mailto:goldokiemute@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>, <a href="https://twitter.com/okiemute_gold">Twitter</a>, <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,
 
 -------
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
@@ -31,7 +36,7 @@ I quickly grasp new software development fundamentals, adapt to new roles, and c
 
 -------
 ### 🧰 Tools/Technologies
-#### Plain
+#### Vanilla
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5" width="40" height="40" title="HTML5">   <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS3" width="40" height="40" title="CSS3">   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40" title="JavaScript">   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40" title="VS Code">   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" title="Git">   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="Github" width="40" height="40" title="Github">
 
 -------
@@ -42,13 +47,6 @@ I quickly grasp new software development fundamentals, adapt to new roles, and c
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="40" height="40" title="Nodejs"> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Expressjs" width="40" height="40" title="Expressjs"> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="40" height="40" title="MongoDB"> -->
-
--------
-<!-- ### ✨ I’m currently learning ✨
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Nodejs" width="50" height="50" title="Nodejs">   <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Expressjs" width="50" height="50" title="Expressjs">   <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB" width="50" height="50" title="MongoDB">  -->
-
-### Resources
-<a href ="https://www.freecodecamp.org/learn">freecodecamp.org/learn</a>,   <a href ="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">freeCodeCamp</a>,   <a href ="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA">Traversy Media</a>,   <a href ="https://www.youtube.com/channel/UCCZYGgIn2X1I8mortBJ5UUw">The Zuri Team</a>,   <a href ="https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg">The Net Ninja</a>,   and so much more...
 
 <!--
 **OkiemuteGold/OkiemuteGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
