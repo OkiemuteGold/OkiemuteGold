@@ -19,7 +19,7 @@ Also familiar with:
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/OkiemuteGold/OkiemuteGold)
 
--------
+
 <!-- ### Certifications
 ##### Logo OR just Name (Year) -->
 
