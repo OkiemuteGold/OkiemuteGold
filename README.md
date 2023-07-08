@@ -20,14 +20,8 @@ Also familiar with:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/OkiemuteGold/OkiemuteGold)
 
 -------
-### Courses/Training
-<!-- ##### Zuri Backend Training - Nodejs (current) -->
-##### Fundamentals of Digital Marketing, Google Digital Skills for Africa (2022)
-##### Fullstack Developer Program, Freecodecamp (2021 - current)
-##### Mobile Web Specialist, Google Andela Developers Scholarship (2020, 2021)
-##### Vuejs Fundamentals, Educative.io and Scrimba (2021)
-##### Softskills Course, Coursera and Jobberman (2021)
-##### The Web Developers Bootcamp, Colt Steele (2020)
+<!-- ### Certifications
+##### Logo OR just Name (Year) -->
 
 -------
 ## &#x1f4c8; My GitHub Stats
