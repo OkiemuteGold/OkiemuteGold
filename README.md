@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Okiemute Gold!
 ##### ⚡ Software Developer | Blockchain | PM
 
-I'm a skilled Frontend Developer with over 3 years of professional experience working with JavaScript, JS libraries, and frameworks to create efficient, scalable, and user-friendly solutions that solve real-world problems.
+I'm a skilled Frontend Developer with over 4 years of professional experience working with JavaScript, JS libraries, and frameworks to create efficient, scalable, and user-friendly solutions that solve real-world problems.
 
 Experienced with:
 • JavaScript, TypeScript, jQuery, Vue.js, React.js and Redux, Next.js, Nodejs, and Firebase.
