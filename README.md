@@ -13,7 +13,7 @@ Also familiar with:
 
 
 ##### ⚡ Contacts:
-<a href="mailto:goldokiemute@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>, <a href="https://twitter.com/okiemute_gold">Twitter</a>, <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,
+<a href="mailto:goldokiemute1@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/okiemute-gold">LinkedIn</a>, <a href="https://twitter.com/okiemute_gold">Twitter</a>, <a href="https://stackoverflow.com/users/14235396/okiemute-gold">Stackoverflow</a>,
 
 -------
 ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14235396)
